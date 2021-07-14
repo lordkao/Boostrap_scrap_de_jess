@@ -8,8 +8,17 @@
   font-size: 90px;
 }
 
-.bg-jess {
+.header-jess {
   background: linear-gradient(#fecefe, white);
+}
+
+.footer-jess {
+  background: linear-gradient(white, #e2df8d);
+  min-height: 100px;
+}
+
+.section-jess {
+  min-height: 500px;
 }
 
 /*!
