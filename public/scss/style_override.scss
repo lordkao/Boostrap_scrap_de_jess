@@ -1,1 +1,12 @@
 $primary:#aa41d7;
+@font-face {
+    font-family: "Sunshine";
+    src: url("../css/Sunshine.ttf");
+}
+.sunshine{
+    font-family: "Sunshine",'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 90px;
+}
+.bg-jess{
+    background: linear-gradient(#ffa1ff,white);
+}

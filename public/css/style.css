@@ -1,4 +1,17 @@
 @charset "UTF-8";
+@font-face {
+  font-family: "Sunshine";
+  src: url("../css/Sunshine.ttf");
+}
+.sunshine {
+  font-family: "Sunshine", "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 90px;
+}
+
+.bg-jess {
+  background: linear-gradient(#ffa1ff, white);
+}
+
 /*!
  * Bootstrap v5.0.2 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
