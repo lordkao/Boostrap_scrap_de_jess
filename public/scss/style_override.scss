@@ -1,0 +1,19 @@
+$primary:#aa41d7;
+@font-face {
+    font-family: "Sunshine";
+    src: url("../css/Sunshine.ttf");
+}
+.sunshine{
+    font-family: "Sunshine",'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 90px;
+}
+.header-jess{
+    background: linear-gradient(#fecefe,white);
+}
+.footer-jess{
+    background: linear-gradient(white,#e2df8d);
+    min-height: 100px;
+}
+.section-jess{
+    min-height: 500px;
+}
